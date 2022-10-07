@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 chmod a+x */
+=======
+chmod 644 hello
+>>>>>>> 7ddf5ef1d72186b422181a73b91dbfe312705423
