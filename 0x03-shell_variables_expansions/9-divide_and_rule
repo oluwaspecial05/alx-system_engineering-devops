@@ -1,2 +1,2 @@
 #!/bin/bash
-./9-divide_and_rule | cat -e 1337$
+echo $((POWER/DIVIDE))
